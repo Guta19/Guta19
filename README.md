@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guta Neme
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Digital Image Processing
-- 💞️ I’m looking to collaborate on Digital Image Processing related Issues, Assignements, Projects
+- 💞️ I’m looking to collaborate on Digital Image processing-related Issues, assignments, and projects.
 - 📫 How to reach me: gutaneme@gmail.com
 
 <!---
